@@ -2,11 +2,14 @@
 # CS350 15winter
 /***************************************************/
 // <author> Haiyu Zhen
+
 // <Email> h2zhen@uwaterloo.ca
+
 // winter 2015
 /***************************************************/
 ## Assignment 1
 cat & mouse Synchronization Problem
+
 Final Score: 45/50 - not efficient enough in some cases
 
 ## Assignment 2
