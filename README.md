@@ -1,11 +1,11 @@
 # os161 kernel
 # CS350 15winter
 /***************************************************/
-// <author> Haiyu Zhen
 
-// <Email> h2zhen@uwaterloo.ca
+Haiyu Zhen
+h2zhen@uwaterloo.ca
+winter 2015
 
-// winter 2015
 /***************************************************/
 ## Assignment 1
 cat & mouse Synchronization Problem
